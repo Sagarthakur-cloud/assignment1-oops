@@ -1,9 +1,11 @@
 ﻿# Assignment 1
 
-Name: Sagar Thakur  
-Class Roll Number: 50 
-University Roll Number: 10363
-Section: A
+| Field | Details |
+|------|--------|
+| Name | Sagar Thakur |
+| Section | A |
+| Class Roll Number | 50 |
+| University Roll Number | 10363 |
 
 ## Program List
 
@@ -126,4 +128,5 @@ Section: A
 | 115 | 97_operator_overloading | [97_operator_overloading.cpp](97_operator_overloading.cpp) |
 | 116 | 98_runtime_polymorphism | [98_runtime_polymorphism.cpp](98_runtime_polymorphism.cpp) |
 | 117 | 99_virtual_function | [99_virtual_function.cpp](99_virtual_function.cpp) |
+
 
