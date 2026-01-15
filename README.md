@@ -1,7 +1,127 @@
-# Assignment 1
+﻿# Object Oriented Programming – Assignment
 
-**Name:** Sagar Thakur
-**Section:** A  
-**Class Roll No:** 50  
-**University Roll No:** 10363 
+Name: YOUR_NAME  
+Roll Number: YOUR_ROLL  
+Section: YOUR_SECTION  
 
+## Program List
+
+| Qstn No | Qstn Name | Solution Link |
+|--------|-----------|---------------|
+| 1 | _area_shapes | [_area_shapes.cpp](_area_shapes.cpp) |
+| 2 | 09_area | [09_area.cpp](09_area.cpp) |
+| 3 | 1_hello_world | [1_hello_world.cpp](1_hello_world.cpp) |
+| 4 | 10_type_casting | [10_type_casting.cpp](10_type_casting.cpp) |
+| 5 | 100_virutal_function_abstract_class | [100_virutal_function_abstract_class.cpp](100_virutal_function_abstract_class.cpp) |
+| 6 | 102_virtual_destructor | [102_virtual_destructor.cpp](102_virtual_destructor.cpp) |
+| 7 | 103_function_overriding | [103_function_overriding.cpp](103_function_overriding.cpp) |
+| 8 | 104_dynamic_method_dispatch | [104_dynamic_method_dispatch.cpp](104_dynamic_method_dispatch.cpp) |
+| 9 | 105_base_pointer_derived_fnc | [105_base_pointer_derived_fnc.cpp](105_base_pointer_derived_fnc.cpp) |
+| 10 | 106_virtual_call_mechanism_fnc | [106_virtual_call_mechanism_fnc.cpp](106_virtual_call_mechanism_fnc.cpp) |
+| 11 | 107_abstract_shape_class | [107_abstract_shape_class.cpp](107_abstract_shape_class.cpp) |
+| 12 | 108_polymorphic_array | [108_polymorphic_array.cpp](108_polymorphic_array.cpp) |
+| 13 | 11_arithmetic | [11_arithmetic.cpp](11_arithmetic.cpp) |
+| 14 | 110_polymorphism_implications | [110_polymorphism_implications.cpp](110_polymorphism_implications.cpp) |
+| 15 | 111_bank_account_system | [111_bank_account_system.cpp](111_bank_account_system.cpp) |
+| 16 | 112_student_result_processing | [112_student_result_processing.cpp](112_student_result_processing.cpp) |
+| 17 | 113_library_management_system | [113_library_management_system.cpp](113_library_management_system.cpp) |
+| 18 | 114_employee_payroll_system | [114_employee_payroll_system.cpp](114_employee_payroll_system.cpp) |
+| 19 | 115_customer_billing_system | [115_customer_billing_system.cpp](115_customer_billing_system.cpp) |
+| 20 | 116_product_inventory | [116_product_inventory.cpp](116_product_inventory.cpp) |
+| 21 | 117_multipleclasses_composition | [117_multipleclasses_composition.cpp](117_multipleclasses_composition.cpp) |
+| 22 | 118_aggregation_of_objects | [118_aggregation_of_objects.cpp](118_aggregation_of_objects.cpp) |
+| 23 | 119_online_shopping_cart | [119_online_shopping_cart.cpp](119_online_shopping_cart.cpp) |
+| 24 | 12_relational | [12_relational.cpp](12_relational.cpp) |
+| 25 | 120_object_life_cycle | [120_object_life_cycle.cpp](120_object_life_cycle.cpp) |
+| 26 | 13_logical | [13_logical.cpp](13_logical.cpp) |
+| 27 | 14_assignment | [14_assignment.cpp](14_assignment.cpp) |
+| 28 | 15_bitwise | [15_bitwise.cpp](15_bitwise.cpp) |
+| 29 | 16_inc_dec | [16_inc_dec.cpp](16_inc_dec.cpp) |
+| 30 | 17_ternary | [17_ternary.cpp](17_ternary.cpp) |
+| 31 | 18_algebraic_expr | [18_algebraic_expr.cpp](18_algebraic_expr.cpp) |
+| 32 | 19_leap_year | [19_leap_year.cpp](19_leap_year.cpp) |
+| 33 | 2_data_types_and_sizes | [2_data_types_and_sizes.cpp](2_data_types_and_sizes.cpp) |
+| 34 | 20_pos_neg_zero | [20_pos_neg_zero.cpp](20_pos_neg_zero.cpp) |
+| 35 | 21_simple_if | [21_simple_if.cpp](21_simple_if.cpp) |
+| 36 | 22_if_else | [22_if_else.cpp](22_if_else.cpp) |
+| 37 | 23_nested_if | [23_nested_if.cpp](23_nested_if.cpp) |
+| 38 | 24_grading_system | [24_grading_system.cpp](24_grading_system.cpp) |
+| 39 | 25_switch_statement | [25_switch_statement.cpp](25_switch_statement.cpp) |
+| 40 | 26_for_loop | [26_for_loop.cpp](26_for_loop.cpp) |
+| 41 | 27_while_loop | [27_while_loop.cpp](27_while_loop.cpp) |
+| 42 | 28_do_while_loop | [28_do_while_loop.cpp](28_do_while_loop.cpp) |
+| 43 | 29_break_continue | [29_break_continue.cpp](29_break_continue.cpp) |
+| 44 | 3_swap_twono | [3_swap_twono.cpp](3_swap_twono.cpp) |
+| 45 | 30_goto_demo | [30_goto_demo.cpp](30_goto_demo.cpp) |
+| 46 | 31_array_input_display | [31_array_input_display.cpp](31_array_input_display.cpp) |
+| 47 | 32_largest_element_array | [32_largest_element_array.cpp](32_largest_element_array.cpp) |
+| 48 | 33_second_largest_element | [33_second_largest_element.cpp](33_second_largest_element.cpp) |
+| 49 | 34_reverse_array | [34_reverse_array.cpp](34_reverse_array.cpp) |
+| 50 | 35_matrix_addition | [35_matrix_addition.cpp](35_matrix_addition.cpp) |
+| 51 | 36_matrix_multiplication | [36_matrix_multiplication.cpp](36_matrix_multiplication.cpp) |
+| 52 | 37_string_length_manual | [37_string_length_manual.cpp](37_string_length_manual.cpp) |
+| 53 | 38_string_copy_manual | [38_string_copy_manual.cpp](38_string_copy_manual.cpp) |
+| 54 | 39_pointers_basics | [39_pointers_basics.cpp](39_pointers_basics.cpp) |
+| 55 | 4_swap_no_temp | [4_swap_no_temp.cpp](4_swap_no_temp.cpp) |
+| 56 | 40_structure_student | [40_structure_student.cpp](40_structure_student.cpp) |
+| 57 | 41_class_objects | [41_class_objects.cpp](41_class_objects.cpp) |
+| 58 | 42_private_public | [42_private_public.cpp](42_private_public.cpp) |
+| 59 | 43_member_functions | [43_member_functions.cpp](43_member_functions.cpp) |
+| 60 | 44_employee_details | [44_employee_details.cpp](44_employee_details.cpp) |
+| 61 | 45_arithmetic_class | [45_arithmetic_class.cpp](45_arithmetic_class.cpp) |
+| 62 | 46_compare_objects | [46_compare_objects.cpp](46_compare_objects.cpp) |
+| 63 | 47_largest_class | [47_largest_class.cpp](47_largest_class.cpp) |
+| 64 | 48_area_class | [48_area_class.cpp](48_area_class.cpp) |
+| 65 | 49_nested_class | [49_nested_class.cpp](49_nested_class.cpp) |
+| 66 | 5_const_key | [5_const_key.cpp](5_const_key.cpp) |
+| 67 | 50_static_member | [50_static_member.cpp](50_static_member.cpp) |
+| 68 | 52_parameterized_constructor | [52_parameterized_constructor.cpp](52_parameterized_constructor.cpp) |
+| 69 | 53_multiple_constructor | [53_multiple_constructor.cpp](53_multiple_constructor.cpp) |
+| 70 | 54_copy_constructor | [54_copy_constructor.cpp](54_copy_constructor.cpp) |
+| 71 | 55_constructor_overloading | [55_constructor_overloading.cpp](55_constructor_overloading.cpp) |
+| 72 | 56_destructor_showing_object_destruction | [56_destructor_showing_object_destruction.cpp](56_destructor_showing_object_destruction.cpp) |
+| 73 | 57_order_of_constructor_execution | [57_order_of_constructor_execution.cpp](57_order_of_constructor_execution.cpp) |
+| 74 | 58_dynamically_allocate_memory_int_constructor | [58_dynamically_allocate_memory_int_constructor.cpp](58_dynamically_allocate_memory_int_constructor.cpp) |
+| 75 | 59_const_data_members_in_contructor | [59_const_data_members_in_contructor.cpp](59_const_data_members_in_contructor.cpp) |
+| 76 | 6_simple_interest | [6_simple_interest.cpp](6_simple_interest.cpp) |
+| 77 | 60_static_data_member | [60_static_data_member.cpp](60_static_data_member.cpp) |
+| 78 | 61_this_pointer | [61_this_pointer.cpp](61_this_pointer.cpp) |
+| 79 | 62_local_and_member_variables_using_this | [62_local_and_member_variables_using_this.cpp](62_local_and_member_variables_using_this.cpp) |
+| 80 | 63_freind_functoin_accessing_private_data | [63_freind_functoin_accessing_private_data.cpp](63_freind_functoin_accessing_private_data.cpp) |
+| 81 | 64_2classes_and_a_common_freind_function | [64_2classes_and_a_common_freind_function.cpp](64_2classes_and_a_common_freind_function.cpp) |
+| 82 | 65_freind_class | [65_freind_class.cpp](65_freind_class.cpp) |
+| 83 | 66_overload_operators_in_freind_function | [66_overload_operators_in_freind_function.cpp](66_overload_operators_in_freind_function.cpp) |
+| 84 | 67_add_2complex_numbers_using_freind | [67_add_2complex_numbers_using_freind.cpp](67_add_2complex_numbers_using_freind.cpp) |
+| 85 | 68_compare_privatedata_of_2class_using_freind | [68_compare_privatedata_of_2class_using_freind.cpp](68_compare_privatedata_of_2class_using_freind.cpp) |
+| 86 | 69_freindship_is_not_mutual | [69_freindship_is_not_mutual.cpp](69_freindship_is_not_mutual.cpp) |
+| 87 | 7_temp_conversion | [7_temp_conversion.cpp](7_temp_conversion.cpp) |
+| 88 | 70_freind_to_swap_private_value | [70_freind_to_swap_private_value.cpp](70_freind_to_swap_private_value.cpp) |
+| 89 | 71_static_data_member | [71_static_data_member.cpp](71_static_data_member.cpp) |
+| 90 | 72_statci_member_function | [72_statci_member_function.cpp](72_statci_member_function.cpp) |
+| 91 | 73_const_object | [73_const_object.cpp](73_const_object.cpp) |
+| 92 | 74_const_member_function | [74_const_member_function.cpp](74_const_member_function.cpp) |
+| 93 | 75_abstract_data_type | [75_abstract_data_type.cpp](75_abstract_data_type.cpp) |
+| 94 | 76_adt_queue | [76_adt_queue.cpp](76_adt_queue.cpp) |
+| 95 | 78_adt_poly | [78_adt_poly.cpp](78_adt_poly.cpp) |
+| 96 | 79_information_hiding | [79_information_hiding.cpp](79_information_hiding.cpp) |
+| 97 | 8_ascii_value | [8_ascii_value.cpp](8_ascii_value.cpp) |
+| 98 | 80_new_delete | [80_new_delete.cpp](80_new_delete.cpp) |
+| 99 | 81_single_inheritance | [81_single_inheritance.cpp](81_single_inheritance.cpp) |
+| 100 | 82_multilevel_inheritance | [82_multilevel_inheritance.cpp](82_multilevel_inheritance.cpp) |
+| 101 | 83_multiple_inheritance | [83_multiple_inheritance.cpp](83_multiple_inheritance.cpp) |
+| 102 | 84_hierarchical_inheritance | [84_hierarchical_inheritance.cpp](84_hierarchical_inheritance.cpp) |
+| 103 | 85_hybrid_inheritance | [85_hybrid_inheritance.cpp](85_hybrid_inheritance.cpp) |
+| 104 | 86_private_inheritance | [86_private_inheritance.cpp](86_private_inheritance.cpp) |
+| 105 | 87_protected_inheritance | [87_protected_inheritance.cpp](87_protected_inheritance.cpp) |
+| 106 | 88_access_base_class_members | [88_access_base_class_members.cpp](88_access_base_class_members.cpp) |
+| 107 | 89_ambiguity_in_multiple_inheritance | [89_ambiguity_in_multiple_inheritance.cpp](89_ambiguity_in_multiple_inheritance.cpp) |
+| 108 | 90_scope_resolution_opr | [90_scope_resolution_opr.cpp](90_scope_resolution_opr.cpp) |
+| 109 | 91_constructor_order_in_inheritance | [91_constructor_order_in_inheritance.cpp](91_constructor_order_in_inheritance.cpp) |
+| 110 | 92_destructor_order_in_inheritance | [92_destructor_order_in_inheritance.cpp](92_destructor_order_in_inheritance.cpp) |
+| 111 | 93_virtual_base_class | [93_virtual_base_class.cpp](93_virtual_base_class.cpp) |
+| 112 | 94_student_marks_processing | [94_student_marks_processing.cpp](94_student_marks_processing.cpp) |
+| 113 | 95_employee_payroll | [95_employee_payroll.cpp](95_employee_payroll.cpp) |
+| 114 | 96_function_overloading | [96_function_overloading.cpp](96_function_overloading.cpp) |
+| 115 | 97_operator_overloading | [97_operator_overloading.cpp](97_operator_overloading.cpp) |
+| 116 | 98_runtime_polymorphism | [98_runtime_polymorphism.cpp](98_runtime_polymorphism.cpp) |
+| 117 | 99_virtual_function | [99_virtual_function.cpp](99_virtual_function.cpp) |
